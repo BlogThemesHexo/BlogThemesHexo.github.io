@@ -1,2 +1,2 @@
 # BlogThemesHexo.github.io
-管理库（组织站点）
+blog源程序的主题 管理库（组织站点）
